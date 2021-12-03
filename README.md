@@ -39,3 +39,13 @@
 #### 사용자가 회원가입 버튼을 클릭하게 되면 화면이 전환되며 이름과 아이디, 비밀번호를 입력받습니다.
 #### 해당 정보를 입력 후 저장버튼을 클릭하면 
 #### 회원정보.txt파일에 입력한 정보들이 저장되고 정보를 바탕으로 로그인을 할 수 있습니다.
+
+#
+
+<img width=464 alt="메인화면" src="https://user-images.githubusercontent.com/83908822/144545360-1fa84788-75bb-416f-8b45-c3dbcb631317.png">
+<img width=464 alt="메인화면" src="https://user-images.githubusercontent.com/83908822/144545431-2bb30377-ce43-4a0d-89b1-d0794ac48db8.png">
+
+#### 정보 입력 후 아래 사진과 같이 자동적으로 데이터가 저장됩니다.
+
+<img width=464 alt="회원명단" src="https://user-images.githubusercontent.com/83908822/144545567-4dc9778e-33e4-40d5-bca9-3d55ffae8ed1.png">
+
